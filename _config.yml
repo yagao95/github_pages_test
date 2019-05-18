@@ -28,7 +28,7 @@ defaults:
 paginate: 20
 
 #### Site
-title : OLP 
+title : Olawpy 
 tagline: Otaku、Law and Python
 assets: /assets
 url:
