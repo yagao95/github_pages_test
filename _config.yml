@@ -49,7 +49,7 @@ menu:
 ## title: tags (or categories)
 ## ---
 
-#### Widgets
+#### Widgets 控件
 widgets:
 - category
 - tag
@@ -79,9 +79,8 @@ index:
   excerpt_link: Read More
 
 close_aside: false  #close sidebar in post page if true
-mathjax: true      #enable mathjax if true
+mathjax: true      #enable mathjax if true数学公式 mathjax 主题支持写 LaTex 数学公式。只需要在文章文件开头的front-matter中，加上一行mathjax: true，即可在文中写 LaTex 公式。
 share_to: true #enable share-to buttons if true
-
 #### Author information
 author:
   name: Fang      ## e.g. wuchong Author name
@@ -94,7 +93,7 @@ author:
   zhihu:      ## e.g. jark  for http://www.zhihu.com/people/jark
   email: fangtao6793@163.com      ## e.g. imjark@gmail.com
   twitter:    ## e.g. jarkwu for https://twitter.com/jarkwu
-  github:  Tao Fang for https://github.com/yagao95     ## e.g. wuchong for https://github.com/wuchong
+  github:  https://github.com/yagao95     ## e.g. wuchong for https://github.com/wuchong
   facebook:   ## e.g. imjark for https://facebook.com/imjark
   linkedin:   ## e.g. wuchong1014 for https://www.linkedin.com/in/wuchong1014
   google_plus:    ## e.g. "111190881341800841449" for https://plus.google.com/u/0/111190881341800841449, the "" is needed!
@@ -142,8 +141,8 @@ cnzz_tongji:
   siteid:    ## e.g. 1253575964 your cnzz tongji site id
 
 #### Miscellaneous
-fancybox: true        ## if you use gallery post or want use fancybox please set the value to true.
-totop: true           ## if you want to scroll to top in every post set the value to true
+fancybox: true        ## 图片浏览 fancybox 如果你经常发表 Gallery 类型的文章，那么请设置为true。if you use gallery post or want use fancybox please set the value to true.
+totop: true           ## 返回顶部 totop 右下角返回顶部按钮，默认开启。if you want to scroll to top in every post set the value to true
 
 #### Custom Search
 google_cse:
