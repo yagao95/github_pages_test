@@ -28,8 +28,8 @@ defaults:
 paginate: 20
 
 #### Site
-title : Olawpy 
-tagline: Otaku、Law and Python
+title : Fang's Blog 
+tagline: Otaku、Law & Technology
 assets: /assets
 url:
 baseurl:
